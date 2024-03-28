@@ -4,3 +4,4 @@ This Email Validator Tool is a simple application designed to validate email add
 
 API USED IN THIS Code: https://app.emailvalidation.io
 
+## Replace the API Key with your key and run this code.
