@@ -6,7 +6,7 @@ import requests
 def validate_email(email):
     # Check if email is provided
     if email:
-        # API key for email validation service
+        # Enter Your API KEY HERE
         api_key = "ema_live_ITkV5Pqq40WNdMLdjqMZlNcb4AEBrNvWiSFd1MYE"
         # URL for the email validation API
         url = f"https://api.emailvalidation.io/v1/info?apikey={api_key}&email={email}"
